@@ -78,3 +78,10 @@ __pycache__/
 # Streamlit
 .streamlit/
 
+
+# Large backup files
+*OLD*
+*backup*
+wine_quality_model.pkl
+model_features.pkl
+
