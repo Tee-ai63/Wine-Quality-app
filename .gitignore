@@ -44,7 +44,6 @@ ehthumbs.db
 Thumbs.db
 
 # Data files (optional - exclude if you want to keep small datasets)
-*.pkl
 *.h5
 *.hdf5
 *.model
@@ -56,3 +55,26 @@ logs/
 
 # Streamlit
 .streamlit/
+# Python cache
+__pycache__/
+*.py[cod]
+*.class
+
+# Development files
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
+
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.class
+
+# Development files
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
+
