@@ -3,7 +3,7 @@
 A machine learning web application that predicts wine quality scores based on chemical properties.
 
 ## 🌐 Live Demo
-[Streamlit Cloud Deployment](https://your-app-name.streamlit.app)
+https://wine-quality-app-jlh9khp8ppkgjnd7nytcqp.streamlit.app/
 
 ## 📊 Features
 - Real-time wine quality prediction
